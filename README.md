@@ -10,7 +10,7 @@
 - 사용자의 음성 명령을 입력으로 하여 **Fine-tuning LLM**이 적절한 로봇팔 구동 코드를 생성해내는 것
 - 방향에 관한 명령, 촬영 전문 용어로 이루어진 명령을 이해하여 LLM이 코드를 생성해낸다.
 
-![동기 및 배경 이미지](images/background.png)
+![동기 및 배경 이미지](![image](https://github.com/user-attachments/assets/d63df860-0138-434e-a97f-638403bcd359))
 
 ## 2. 시스템 구성
 시스템은 다음과 같이 구성:
