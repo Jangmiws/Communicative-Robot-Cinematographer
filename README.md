@@ -18,7 +18,7 @@
 - **LLM 모델**: KoAlpaca-Polyglot-5.8B을 Colab 환경에서 Fine-tuning
 - **턴 테이블**: 직접 제작했으며 상하 이동, 상판 회전 운동이 가능한 테이블
 
-![화면 캡처 2024-07-12 170528](https://github.com/user-attachments/assets/c7e140a6-4c37-45e1-8955-40980c42b997)
+<img src="https://github.com/user-attachments/assets/284665fa-0be6-4861-952e-0fa0289e980d"  width="50%" height="50%"/>
 
 ## 3. 데이터 설명
 프로젝트에서 사용된 데이터:
@@ -29,7 +29,7 @@
 
 데이터는 json 파일 형식으로 저장되어 있으며 속도, 거리에 대한 기준은 일반인 대상 설문조사를 받아 결정
 
-&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/284665fa-0be6-4861-952e-0fa0289e980d)
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/284665fa-0be6-4861-952e-0fa0289e980d"  width="50%" height="50%"/>
 
 
 ## 4. 사용한 모델
