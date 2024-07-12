@@ -1,3 +1,5 @@
+# Communicative-Robot-Cinematographer
+---
 #### 해당 프로젝트는 총 4개월간 캡스톤 디자인 수업(졸업작품)에서 진행된 프로젝트
 
 ## 1. 동기 및 목표
