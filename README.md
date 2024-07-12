@@ -45,7 +45,7 @@
 1. **맥주**
   - 5가지 명령으로 컷 촬영<br>
   - 턴 테이블은 조이스틱으로 구동<br>
-    ![슬라이드 쇼 2024-07-12 17-16-35](https://github.com/user-attachments/assets/44848c14-130f-4ce3-aedf-135740e70707){: width="300" height="300"){: .center}<br>
+    ![슬라이드 쇼 2024-07-12 17-16-35](https://github.com/user-attachments/assets/44848c14-130f-4ce3-aedf-135740e70707){: width="300" height="300"}<br>
     
 2. **과자**
   - 4가지 명령으로 컷 촬영 <br>
