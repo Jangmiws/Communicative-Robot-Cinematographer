@@ -54,7 +54,7 @@
     ![슬라이드 쇼 2024-07-12 17-17-39](https://github.com/user-attachments/assets/5220315f-6cab-4bcf-af9e-5d54e0d718ac)<br>
 
 #### 최종 결과물 (컷 촬영본을 편집하여 최종 영상 제작)
-![┼╫╢≤ ▒ñ░φ1](https://github.com/user-attachments/assets/1a2f7d09-662a-45cc-8800-e731408d4696)  <img src="https://github.com/user-attachments/assets/73b7790c-f256-40a7-abe0-46e41fbd341e" width="50%" height="50%"/>
+<img src="https://github.com/user-attachments/assets/1a2f7d09-662a-45cc-8800-e731408d4696" width="40%" height="40%"/>  <img src="https://github.com/user-attachments/assets/73b7790c-f256-40a7-abe0-46e41fbd341e" width="45%" height="45%"/>
 
 
 ---
