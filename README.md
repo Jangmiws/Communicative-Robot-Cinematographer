@@ -31,7 +31,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/284665fa-0be6-4861-952e-0fa0289e980d)
 
-<img src="https://github.com/user-attachments/assets/284665fa-0be6-4861-952e-0fa0289e980d" width="200" height="400"/>
+
 ## 4. 사용한 모델
 이 프로젝트에서는 다양한 딥러닝 모델을 사용하여 시스템을 구성, 모델의 세부 사항은 다음과 같다:
 - **Segmentation**: Fast SAM(Segmentation Anything Model)
@@ -45,7 +45,8 @@
 1. **맥주**
   - 5가지 명령으로 컷 촬영<br>
   - 턴 테이블은 조이스틱으로 구동<br>
-    ![슬라이드 쇼 2024-07-12 17-16-35](https://github.com/user-attachments/assets/44848c14-130f-4ce3-aedf-135740e70707)  <br>
+    ![슬라이드 쇼 2024-07-12 17-16-35](https://github.com/user-attachments/assets/44848c14-130f-4ce3-aedf-135740e70707)<br>
+    <img src="https://github.com/user-attachments/assets/44848c14-130f-4ce3-aedf-135740e70707" width="50%" height="50%"/><br>
     
 2. **과자**
   - 4가지 명령으로 컷 촬영 <br>
