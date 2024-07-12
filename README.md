@@ -23,9 +23,9 @@
 ## 3. 데이터 설명
 프로젝트에서 사용된 데이터:
 - **Fine-tuning 데이터**: 방향, 촬영 전문 용어로 이루어진 다양한 지시문과 알맞은 로봇팔 구동 코드 쌍<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ex) {instruction : "오른쪽으로 슬라이드샷"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;input : (로봇팔 end-effector 현재 위치)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;output : "movejx(posx(-225, 100, 515), vel=50, acc=50)}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ex) {instruction : "오른쪽으로 슬라이드샷"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;input : (로봇팔 end-effector 현재 위치)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;output : "movejx(posx(-225, 100, 515), vel=50, acc=50)}
 
 데이터는 json 파일 형식으로 저장되어 있으며 속도, 거리에 대한 기준은 일반인 대상 설문조사를 받아 결정
 
