@@ -37,7 +37,6 @@
 - **STT**: Whisper (medium)
 - **LLM** : Fine-tuning LLM (KoAlpaca-Polyglot-5.8B)
 
-![모델 설명 이미지](images/model_architecture.png)
 
 ## 5. 결과물
 결과물로는 맥주, 과자 광고를 제작
