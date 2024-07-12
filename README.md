@@ -1,4 +1,3 @@
-![화면 캡처 2024-07-12 170528](https://github.com/user-attachments/assets/6d0e7314-ae67-4755-8aa6-f5fe4774a311)# Communicative Robot Cinematographer
 #### 해당 프로젝트는 총 4개월간 캡스톤 디자인 수업(졸업작품)에서 진행된 프로젝트
 
 ## 1. 동기 및 목표
