@@ -29,7 +29,8 @@
 
 데이터는 json 파일 형식으로 저장되어 있으며 속도, 거리에 대한 기준은 일반인 대상 설문조사를 받아 결정
 
-![데이터 설명 이미지](images/data_description.png)
+&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/284665fa-0be6-4861-952e-0fa0289e980d)
+
 
 ## 4. 사용한 모델
 이 프로젝트에서는 다양한 딥러닝 모델을 사용하여 시스템을 구성, 모델의 세부 사항은 다음과 같다:
