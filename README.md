@@ -29,7 +29,7 @@
 
 데이터는 json 파일 형식으로 저장되어 있으며 속도, 거리에 대한 기준은 일반인 대상 설문조사를 받아 결정
 
-&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/284665fa-0be6-4861-952e-0fa0289e980d)
+&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/284665fa-0be6-4861-952e-0fa0289e980d){: width="300" height="300"}
 
 
 ## 4. 사용한 모델
@@ -45,7 +45,7 @@
 1. **맥주**
   - 5가지 명령으로 컷 촬영<br>
   - 턴 테이블은 조이스틱으로 구동<br>
-    ![슬라이드 쇼 2024-07-12 17-16-35](https://github.com/user-attachments/assets/44848c14-130f-4ce3-aedf-135740e70707) {: width="300" height="300"} <br>
+    ![슬라이드 쇼 2024-07-12 17-16-35](https://github.com/user-attachments/assets/44848c14-130f-4ce3-aedf-135740e70707)  <br>
     
 2. **과자**
   - 4가지 명령으로 컷 촬영 <br>
