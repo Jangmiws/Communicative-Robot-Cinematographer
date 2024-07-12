@@ -1,4 +1,4 @@
-# Communicative Robot Cinematographer
+![화면 캡처 2024-07-12 170528](https://github.com/user-attachments/assets/6d0e7314-ae67-4755-8aa6-f5fe4774a311)# Communicative Robot Cinematographer
 #### 해당 프로젝트는 총 4개월간 캡스톤 디자인 수업(졸업작품)에서 진행된 프로젝트
 
 ## 1. 동기 및 목표
@@ -18,7 +18,7 @@
 - **LLM 모델**: KoAlpaca-Polyglot-5.8B을 Colab 환경에서 Fine-tuning
 - **턴 테이블**: 직접 제작했으며 상하 이동, 상판 회전 운동이 가능한 테이블
 
-<img src="https://github.com/user-attachments/assets/284665fa-0be6-4861-952e-0fa0289e980d"  width="50%" height="50%"/>
+<img src="https://github.com/user-attachments/assets/52f98967-53d5-442c-8a0e-d01e90970bf9"  width="65%" height="65%"/>
 
 ## 3. 데이터 설명
 프로젝트에서 사용된 데이터:
@@ -29,7 +29,7 @@
 
 데이터는 json 파일 형식으로 저장되어 있으며 속도, 거리에 대한 기준은 일반인 대상 설문조사를 받아 결정
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/284665fa-0be6-4861-952e-0fa0289e980d"  width="50%" height="50%"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/284665fa-0be6-4861-952e-0fa0289e980d"  width="65%" height="65%"/>
 
 
 ## 4. 사용한 모델
