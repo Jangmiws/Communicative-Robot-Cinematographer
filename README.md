@@ -42,17 +42,19 @@
 ## 5. 결과물
 결과물로는 맥주, 과자 광고를 제작
 
-1. 맥주
+1. **맥주**
   - 5가지 명령으로 컷 촬영
   - 턴 테이블은 조이스틱으로 구동
+    ![슬라이드 쇼 2024-07-12 17-16-35](https://github.com/user-attachments/assets/44848c14-130f-4ce3-aedf-135740e70707)
     
-2. 과자
-  - 4가지 명령으로 컷 촬영
+2. **과자**
+  - 4가지 명령으로 컷 촬영 
   - 턴 테이블은 조이스틱으로 구동
-    
-![결과물 GIF 1](results/result1.gif)
-![결과물 GIF 2](results/result2.gif)
-![결과물 GIF 3](results/result3.gif)
+    ![슬라이드 쇼 2024-07-12 17-17-39](https://github.com/user-attachments/assets/5220315f-6cab-4bcf-af9e-5d54e0d718ac)
+
+#### 최종 결과물
+![┼╫╢≤ ▒ñ░φ1](https://github.com/user-attachments/assets/1a2f7d09-662a-45cc-8800-e731408d4696)  ![┼⌐╢≤┐ε╗Ω╡╡](https://github.com/user-attachments/assets/73b7790c-f256-40a7-abe0-46e41fbd341e)
+
 
 ---
 
