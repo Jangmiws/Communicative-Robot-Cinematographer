@@ -18,7 +18,7 @@
 - **LLM 모델**: KoAlpaca-Polyglot-5.8B을 Colab 환경에서 Fine-tuning
 - **턴 테이블**: 직접 제작했으며 상하 이동, 상판 회전 운동이 가능한 테이블
 
-![시스템 구성도](images/system_architecture.png)
+![화면 캡처 2024-07-12 170528](https://github.com/user-attachments/assets/c7e140a6-4c37-45e1-8955-40980c42b997)
 
 ## 3. 데이터 설명
 프로젝트에서 사용된 데이터:
